@@ -38,7 +38,7 @@ echo "jangan keluar dari terminal atau aplikasi"
 echo -e "[ ${green}INFO${NC} ] in the process of installing tools"
 echo -e "[ ${green}INFO${NC} ] dalam proses pemasangan alat"
 sleep 1
-#wget https://raw.githubusercontent.com/fisabiliyusri/coba/main/alat/alat.sh && chmod +x alat.sh && ./alat.sh
+#wget https://raw.githubusercontent.com/Zuz99/coba/main/alat/alat.sh && chmod +x alat.sh && ./alat.sh
 sleep 1
 sleep 1
 echo -e "[ ${green}INFO${NC} ] DONE... ALAT"
@@ -57,7 +57,7 @@ echo -e "[ ${green}INFO${NC} ] Mengunduh dan Menginstal OpenSSH"
 echo -e "[ ${green}INFO${NC} ] Downloading and Installing Dropbear"
 echo -e "[ ${green}INFO${NC} ] Mengunduh dan Menginstal Dropbear"
 sleep 1
-wget https://raw.githubusercontent.com/fisabiliyusri/coba/main/ssh/ssh.sh && chmod +x ssh.sh && ./ssh.sh
+wget https://raw.githubusercontent.com/Zuz99/coba/main/ssh/ssh.sh && chmod +x ssh.sh && ./ssh.sh
 sleep 1
 sleep 1
 echo -e "[ ${green}INFO${NC} ] DONE... SSH"
@@ -74,7 +74,7 @@ echo "jangan keluar dari terminal atau aplikasi"
 echo -e "[ ${green}INFO${NC} ] Downloading and Installing SlowDNS"
 echo -e "[ ${green}INFO${NC} ] Mengunduh dan Menginstal SlowDNS"
 sleep 1
-wget https://raw.githubusercontent.com/fisabiliyusri/coba/main/slowdns/slowdns.sh && chmod +x slowdns.sh && ./slowdns.sh
+wget https://raw.githubusercontent.com/Zuz99/coba/main/slowdns/slowdns.sh && chmod +x slowdns.sh && ./slowdns.sh
 sleep 1
 sleep 1
 echo -e "[ ${green}INFO${NC} ] DONE... SLOWDNS"
@@ -91,7 +91,7 @@ echo "jangan keluar dari terminal atau aplikasi"
 echo -e "[ ${green}INFO${NC} ] Downloading and Installing SSLH"
 echo -e "[ ${green}INFO${NC} ] Mengunduh dan Menginstal SSLH"
 sleep 1
-wget https://raw.githubusercontent.com/fisabiliyusri/coba/main/sslh/sslh.sh && chmod +x sslh.sh && ./sslh.sh
+wget https://raw.githubusercontent.com/Zuz99/coba/main/sslh/sslh.sh && chmod +x sslh.sh && ./sslh.sh
 sleep 1
 sleep 1
 echo -e "[ ${green}INFO${NC} ] DONE... SSLH"
@@ -109,7 +109,7 @@ sleep 1
 echo -e "[ ${green}INFO${NC} ] Downloading and Installing Stunnel5"
 echo -e "[ ${green}INFO${NC} ] Mengunduh dan Menginstal Stunnel5"
 sleep 1
-wget https://raw.githubusercontent.com/fisabiliyusri/coba/main/stunnel5/stunnel5.sh && chmod +x stunnel5.sh && ./stunnel5.sh
+wget https://raw.githubusercontent.com/Zuz99/coba/main/stunnel5/stunnel5.sh && chmod +x stunnel5.sh && ./stunnel5.sh
 sleep 1
 sleep 1
 echo -e "[ ${green}INFO${NC} ] DONE... STUNNEL5"
@@ -128,7 +128,7 @@ sleep 1
 echo -e "[ ${green}INFO${NC} ] Downloading and Installing SSH Websocket"
 echo -e "[ ${green}INFO${NC} ] Mengunduh dan Menginstal SSH Websocket"
 sleep 1
-wget https://raw.githubusercontent.com/fisabiliyusri/coba/main/websocket/websocket.sh && chmod +x websocket.sh && ./websocket.sh
+wget https://raw.githubusercontent.com/Zuz99/coba/main/websocket/websocket.sh && chmod +x websocket.sh && ./websocket.sh
 sleep 1
 echo -e "[ ${green}INFO${NC} ] DONE... SSH WEBSOCKET"
 sleep 1
@@ -139,7 +139,7 @@ sleep 1
 echo -e "[ ${green}INFO${NC} ] Downloading and Installing Nginx"
 echo -e "[ ${green}INFO${NC} ] Mengunduh dan Menginstal Nginx"
 sleep 1
-wget https://raw.githubusercontent.com/fisabiliyusri/coba/main/nginx/nginx.sh && chmod +x nginx.sh && ./nginx.sh
+wget https://raw.githubusercontent.com/Zuz99/coba/main/nginx/nginx.sh && chmod +x nginx.sh && ./nginx.sh
 sleep 1
 echo -e "[ ${green}INFO${NC} ] DONE... NGINX"
 sleep 1
@@ -156,7 +156,7 @@ sleep 1
 echo -e "[ ${green}INFO${NC} ] Downloading and Installing XRAY"
 echo -e "[ ${green}INFO${NC} ] Mengunduh dan Menginstal XRAY"
 sleep 1
-wget https://raw.githubusercontent.com/fisabiliyusri/coba/main/xray/xray.sh && chmod +x xray.sh && ./xray.sh
+wget https://raw.githubusercontent.com/Zuz99/coba/main/xray/xray.sh && chmod +x xray.sh && ./xray.sh
 sleep 1
 echo -e "[ ${green}INFO${NC} ] DONE... XRAY"
 sleep 1
